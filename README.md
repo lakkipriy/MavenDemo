@@ -1,1 +1,1 @@
-# MavenDemo
+# newPOM
